@@ -5,6 +5,7 @@
 // @description  Adds "Odpovědět" option to comment actions menu with quoted reply
 // @author       You
 // @match        https://www.zatrolene-hry.cz/diskuse/*
+// @match        https://www.zatrolene-hry.cz/*/otazky/*
 // @grant        none
 // ==/UserScript==
 
